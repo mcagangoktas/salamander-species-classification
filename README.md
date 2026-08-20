@@ -81,8 +81,6 @@ All four models exceeded the 60% threshold confirming inter-species pheromonal d
 
 *Presented at the 22nd European Congress of Herpetology, Wolverhampton, UK — September 2023*
 
-![Conference Poster](poster.png)
-
 ---
 
 ## 🗂️ Repository Structure
@@ -144,8 +142,6 @@ Prints accuracy scores and saves the results figure to `results/`.
 ## 👥 Authors
 
 Muhammed Çağan Göktaş · Mina Akın · Hülya Olgun · Kurtuluş Olgun · Ünal Kızıl
-
-*High school science project, 2023*
 
 ---
 
